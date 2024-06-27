@@ -1,6 +1,8 @@
 # Happy-Friday (Re-Uploaded)
 A Re-Upload of the game Happy Friday! by SmashPlug
 
+Demo Site Here: https://burnedpopcorn.github.io/Happy-Friday/
+
 Thanks to the CRX Extractor Extension for the ability to extract the files from .crx files
 > Below this is the Info about this game from the Chrome Web Store Page
 
